@@ -4,6 +4,3 @@ def reverse_string(s):
     for char in s:
         reversed_str = char + reversed_str  # Prepend each character
     return reversed_str  # Return the reversed string
-
-# Example usage:
-# print(reverse_string("hello"))  # Output: "olleh"

@@ -6,6 +6,3 @@ def sum_of_digits(n):
         total += digit  # Add digit to total
         n = n // 10  # Remove the last digit
     return total  # Return the total sum
-
-# Example usage:
-# print(sum_of_digits(123))  # Output: 6

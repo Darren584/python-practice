@@ -4,6 +4,3 @@ def sum_list(numbers):
     for num in numbers:
         total += num  # Add each number to total
     return total  # Return the final sum
-
-# Example usage:
-# print(sum_list([1, 2, 3, 4]))  # Output: 10

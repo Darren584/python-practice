@@ -4,9 +4,6 @@
 - **Name:** Darren Alweyi Mwange
 - **Admission Number:** 169272
 
-## Project Overview
-This repository contains a set of Python functions that solve simple programming tasks. I wrote all the code myself, focusing on learning, thinking through problems, and explaining my logic clearly with comments.
-
 ## Tasks Completed
 
 ### Sum of Elements in a List

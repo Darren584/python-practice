@@ -4,9 +4,6 @@
 - **Name:** Darren Alweyi Mwange
 - **Admission Number:** 169272
 
-
-## Tasks Completed
-
 ### Sum of Elements in a List
 - Created a list containing numbers.
 - Initialized a `total` variable at 0.
@@ -39,4 +36,4 @@
 - Added each digit (after converting it back to an integer) to the total.
 
 ## Repository Structure
-Each task is saved in a separate Python file:
+Each task is saved in a separate Python file.
